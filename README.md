@@ -1,3 +1,1 @@
-# blog source
-
-.
+# blog assets
